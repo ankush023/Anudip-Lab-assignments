@@ -1,3 +1,7 @@
+                                                PYTHON PROGRAMMING
+                                                 Lab Assignment-2
+                                                    Operators
+
 # Q.1 Write a program for arithmatic operators.
 
 #Ans.1
